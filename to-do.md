@@ -1,0 +1,2 @@
+- Add a front-end to display the list of products and their information
+- Add a database to hold the information about these products. For now, simply adding data in markdown files.
